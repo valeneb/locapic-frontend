@@ -13,7 +13,10 @@ Want to see the backend? [It's here](https://github.com/valeneb/locapic-backend)
 
 ## 🎬 View in production
 
-[![Video of the project]()]([https://youtu.be/120SyxVbSNo](https://youtube.com/shorts/2vN6DcuRiFo))
+[![Video of the project](assets/video-locapic.png)](https://youtu.be/120SyxVbSNo)
+
+
+
 
 ## 📰 License
 
