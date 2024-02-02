@@ -20,4 +20,4 @@ Want to see the backend? [It's here](https://github.com/valeneb/locapic-backend)
 
 ## 📰 License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License.
